@@ -1,10 +1,11 @@
-# ERWHI Hedgehog (ERWHI3)
-### *ERWHI is an open source project by Giovanni Bruno.*
+# UP Squared Robomaker Developer Kit
+## Full Robot upgrade instructions, software and tutorials
+
 ![erwhi hedgehog](https://user-images.githubusercontent.com/9216366/57075439-1e1d6980-6ce7-11e9-84d5-a9d73a3408ec.jpg)
 
 List of repositories:
 
-- [erwhi-hedgehog](https://github.com/gbr1/erwhi-hedgehog) , index of repositories for Erwhi Hedgehog and documentation
+- [upbot_robot](https://github.com/AAEONAEU-SW/erwhi-hedgehog) , index of repositories for UPBot robot and documentation
 - [erwhi-hedgehog-ros](https://github.com/gbr1/erwhi-hedgehog-ros) , ROS package used by Erwhi
 - [erwhi-hedgehog-apps](https://github.com/gbr1/erwhi-hedgehog-apps), ROS nodes useful for Erwhi case of studies
 - [erwhi-hedgehog-mechanics](https://github.com/gbr1/erwhi-hedgehog-mechanics) , repository for mechanics
@@ -29,4 +30,6 @@ Other packages:
 <br>
 <br>
 
-***Copyright (c) 2018-2019 Giovanni di Dio Bruno under MIT license.***
+***Copyright (c) AAEON Technology Europe B.V. 2019.***
+<br>
+***Based on original work from Giovanni di Dio Bruno under MIT license.***
